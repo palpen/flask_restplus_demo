@@ -1,0 +1,5 @@
+name: flask_resplus_tech_talk
+dependencies:
+  - pip
+  - pip:
+    - flask-restplus
